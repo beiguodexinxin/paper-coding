@@ -1,0 +1,13 @@
+The accuracy of the prediction on sensor_32 is 99.46%
+sensor_32 2012-01-07 05 missing
+sensor_32 2012-01-07 11 missing
+sensor_32 2012-01-09 19 missing
+sensor_32 2012-01-11 13 minor
+sensor_32 2012-01-19 21 missing
+sensor_32 2012-01-19 23 missing
+sensor_32 2012-01-21 10 missing
+sensor_32 2012-01-22 23 minor
+sensor_32 2012-01-23 01 minor
+sensor_32 2012-01-24 14 missing
+sensor_32 2012-01-25 23 minor
+sensor_32 2012-01-26 13 missing

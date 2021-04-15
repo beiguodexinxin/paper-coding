@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1d941b5-bcc6-4b86-aa7b-608f70266879" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1etrKD3ivktYU4pvjtCTBmgRz6q" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python代码/数据清洗和挑选.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="统计量组合" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="identify_anomaly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python代码" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python代码/统计量组合.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="identify_anomaly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.统计量组合" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1d941b5-bcc6-4b86-aa7b-608f70266879" name="Default Changelist" comment="" />
+      <created>1595151663927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595151663927</updated>
+      <workItem from="1595151669628" duration="690000" />
+      <workItem from="1595307996636" duration="7738000" />
+      <workItem from="1595327298229" duration="8693000" />
+      <workItem from="1595343048723" duration="633000" />
+      <workItem from="1595345438207" duration="640000" />
+      <workItem from="1595411557603" duration="3770000" />
+      <workItem from="1595415731914" duration="43000" />
+      <workItem from="1595422556069" duration="1358000" />
+      <workItem from="1595479374903" duration="3917000" />
+      <workItem from="1595490731586" duration="3917000" />
+      <workItem from="1595510048462" duration="88000" />
+      <workItem from="1596349285456" duration="1643000" />
+      <workItem from="1596355612212" duration="1888000" />
+      <workItem from="1596424337526" duration="1900000" />
+      <workItem from="1596464499531" duration="432000" />
+      <workItem from="1596607961680" duration="5834000" />
+      <workItem from="1596619722027" duration="7998000" />
+      <workItem from="1596720572130" duration="4045000" />
+      <workItem from="1596724965400" duration="2719000" />
+      <workItem from="1596797136621" duration="1901000" />
+      <workItem from="1596802079837" duration="760000" />
+      <workItem from="1596869098802" duration="1427000" />
+      <workItem from="1596893374199" duration="1847000" />
+      <workItem from="1596945451308" duration="1482000" />
+      <workItem from="1597158425198" duration="681000" />
+      <workItem from="1597244007257" duration="974000" />
+      <workItem from="1597297414386" duration="222000" />
+      <workItem from="1597485349904" duration="3268000" />
+      <workItem from="1597503347357" duration="210000" />
+      <workItem from="1598448952395" duration="694000" />
+      <workItem from="1598508096443" duration="12000" />
+      <workItem from="1598530450485" duration="17000" />
+      <workItem from="1598532453287" duration="13000" />
+      <workItem from="1598707540549" duration="353000" />
+      <workItem from="1607346789288" duration="816000" />
+      <workItem from="1607351437074" duration="475000" />
+      <workItem from="1608259778402" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/identify_anomaly$.coverage" NAME="统计量组合 Coverage Results" MODIFIED="1595337906699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python代码" />
+    <SUITE FILE_PATH="coverage/Identify_anomaly$main.coverage" NAME="main Coverage Results" MODIFIED="1607351453411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/identify_anomaly$main.coverage" NAME="main Coverage Results" MODIFIED="1598449349879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

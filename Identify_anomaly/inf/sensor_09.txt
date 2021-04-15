@@ -1,0 +1,2 @@
+The accuracy of the prediction on sensor_09 is 99.87%
+sensor_09 2012-01-23 00 outlier

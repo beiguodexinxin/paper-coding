@@ -1,0 +1,9 @@
+The accuracy of the prediction on sensor_08 is 100.00%
+sensor_08 2012-01-03 11 missing
+sensor_08 2012-01-07 23 missing
+sensor_08 2012-01-08 06 missing
+sensor_08 2012-01-11 20 missing
+sensor_08 2012-01-12 18 missing
+sensor_08 2012-01-20 21 missing
+sensor_08 2012-01-23 13 missing
+sensor_08 2012-01-24 10 missing

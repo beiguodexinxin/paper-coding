@@ -1,0 +1,6 @@
+The accuracy of the prediction on sensor_36 is 100.00%
+sensor_36 2012-01-06 03 missing
+sensor_36 2012-01-09 08 missing
+sensor_36 2012-01-11 15 missing
+sensor_36 2012-01-16 06 missing
+sensor_36 2012-01-25 14 missing

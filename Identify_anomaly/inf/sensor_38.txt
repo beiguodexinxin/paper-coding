@@ -1,0 +1,2 @@
+The accuracy of the prediction on sensor_38 is 100.00%
+sensor_38 2012-01-02 13 missing

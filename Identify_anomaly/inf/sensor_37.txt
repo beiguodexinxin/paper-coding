@@ -1,0 +1,7 @@
+The accuracy of the prediction on sensor_37 is 100.00%
+sensor_37 2012-01-02 20 missing
+sensor_37 2012-01-07 07 missing
+sensor_37 2012-01-15 20 missing
+sensor_37 2012-01-17 05 missing
+sensor_37 2012-01-20 20 missing
+sensor_37 2012-01-22 16 missing
